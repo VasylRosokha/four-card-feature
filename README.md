@@ -9,8 +9,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/VasylRosokha/four-card-feature)
+- Live Site URL: [Add live site URL here](https://vasylrosokha.github.io/qr-code-component/)
 
 ### Built with
 
